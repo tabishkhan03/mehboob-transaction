@@ -179,7 +179,7 @@ export default function Home() {
 
       {/* Transaction Filter */}
       <TransactionFilter onFilter={handleFilter} />
-      <button onClick={handleClearFilter} className="btn-secondary mb-4">
+      <button onClick={handleClearFilter} className="btn-primary mb-4">
         Clear Filter
       </button>
 

@@ -13,7 +13,7 @@ export default function TransactionList({ transactions, onDelete, onEdit, carrie
     <div className="overflow-x-auto">
       <table className="w-full table-auto">
         <thead>
-          <tr className="bg-gray-100 dark:bg-gray-600">
+          <tr className="bg-gray-600 ">
             <th className="px-4 py-2 text-left">Date</th>
             <th className="px-4 py-2 text-left">Description</th>
             <th className="px-4 py-2 text-left">Amount</th>
