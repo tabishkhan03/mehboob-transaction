@@ -110,7 +110,7 @@ export default function LandingPage() {
               <div className="flex flex-col justify-center space-y-4">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-white text-center">About Our App</h2>
                 <p className="max-w-[600px] text-gray-400 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed text-center">
-                  Our transaction manager app was born out of a need for a simple, yet powerful tool to manage personal and business finances. We've designed it with the user in mind, focusing on ease of use without compromising on features.
+                  Our transaction manager app was born out of a need for a simple, yet powerful tool to manage personal and business finances. We&lsquo;ve designed it with the user in mind, focusing on ease of use without compromising on features.
                 </p>
               </div>
               <img
